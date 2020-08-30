@@ -61,7 +61,7 @@ public class Employee {
 		Employee emp2 = new Employee("Vikram", "Sanjay", 10000);
 		
 //		double yearlySalary = 12*emp1.getMonthlySalary();
-		
+ 		
 		System.out.println("First Name:\t" + emp1.getFirstName() +"\nLast Name:\t" + emp1.getLastName());
 		System.out.println("Yealy Salary:\t" +yearlySalary(emp1));
 		System.out.println("--------------------------------------------");
